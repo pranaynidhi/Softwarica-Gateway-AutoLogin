@@ -1,4 +1,4 @@
-## **What'ss this?**
+## **What's this?**
 Auto login for gateway portal.
 This script is a lifesaver for mobile users stuck in the endless loop of captive portal logins. 
 You know the drill: your session times out, the portal forgets you faster than your ex, and you're back to typing those same credentials again and again. 
