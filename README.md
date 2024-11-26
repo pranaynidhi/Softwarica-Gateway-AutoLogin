@@ -44,6 +44,7 @@ chmod +x run.sh
 ```
 
 
-## Ejoy!
+## Done!
+Now whenever it asks for sign in to the network you just need to run the termux apk it should do the job for ya.
 
 
