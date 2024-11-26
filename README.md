@@ -20,7 +20,10 @@ You'll need **Termux** (Android terminal emulator) to use this script on your mo
 
 Follow these steps to clone the repository and set up the script:
 
-
+# Step 0: Update Repo:
+```bash
+apt update && apt upgrade -y
+```
 # Step 1: Install git
 ```bash
 pkg install git -y
