@@ -4,10 +4,6 @@ This script is a lifesaver for mobile users stuck in the endless loop of captive
 You know the drill: your session times out, the portal forgets you faster than your ex, and you're back to typing those same credentials again and again. 
 This script handles that drama for you!
 
-# Softwarica Gateway AutoLogin 📶
-
-Are you tired of repeatedly logging into the Softwarica gateway every time your session times out? This script automates the login process, saving you from the repetitive hassle. Perfect for mobile users or anyone who values their time!
-
 ## 📋 Prerequisites
 
 You'll need **Termux** (Android terminal emulator) to use this script on your mobile device.
